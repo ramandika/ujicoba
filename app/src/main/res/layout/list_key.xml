@@ -14,6 +14,8 @@
         android:layout_gravity="center_horizontal" />
 
     <Button
+        android:focusable="false"
+        android:focusableInTouchMode="false"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Generate New Key"
@@ -23,6 +25,6 @@
     <ListView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/list_key"
+        android:id="@+id/listkey"
         android:layout_gravity="center_horizontal" />
 </LinearLayout>

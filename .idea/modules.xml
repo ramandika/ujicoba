@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/EccKeyGen.iml" filepath="$PROJECT_DIR$/EccKeyGen.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ujicoba.iml" filepath="$PROJECT_DIR$/ujicoba.iml" />
     </modules>
   </component>
 </project>
